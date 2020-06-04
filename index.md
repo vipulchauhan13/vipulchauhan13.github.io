@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Hi There !
 
-You can use the [editor on GitHub](https://github.com/vipulchauhan13/vipulchauhan13.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Vipul Chauhan and I welcome you to my official page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Vipul
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Vipul has a passion for data analysis and predictive modelling, for innovation and execution. His core skill include Machine learning, NLP, quantitave modelling, web scraping and EDA. Currently, Vipul works with "SpectralTech AI" as a Junior Data Scientist in Gurugram, India. Previously, he served as Data Analyst in a startup company "School for Analytics" with engineers and business managers focused on  Reporting services, decision making andd consulting. So far, Vipul has been lucky enough to gain professional full time experience in 2 companies and internship experience in 3 organizations in 2 countries (Greece and India). 
+In Athens, Greece, as data interpretation and entrepreneurship intern for Athens Information Technology. 
+In India, as Junior Data Scientist for SpectralTech AI, Data Analyst for School for Analytics, Product development intern for Airports Authorities of India, Data Science intern for Radix Info Solutions Pvt. Ltd. 
+Antonio has various certifications from highly ranked univrsities and organizations for some wonderful technologies, a scientific paper published IEEE on machine learning and he is currently learning Spenish.
 
 ```markdown
 Syntax highlighted code block
